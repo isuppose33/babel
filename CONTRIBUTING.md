@@ -12,7 +12,12 @@
    <strong><a href="#internals">Internals</a></strong>
 </p>
 
----
+---Remove-SPSiteURL
+      [-Url] <String>
+      [-AssignmentCollection <SPAssignmentCollection>]
+      [-Confirm]
+      [-WhatIf]
+      [<CommonParameters>]j
 
 # Contributing
 
